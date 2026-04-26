@@ -13,7 +13,7 @@
   "author": "Topu Tech",
   "license": "GPL-3.0",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:xhclintohn/Baileys",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
     "qrcode": "^1.5.3",
     "maher-zubair-baileys": "github:xhclintohn/Baileys",
     "awesome-phonenumber": "^2.64.0",
